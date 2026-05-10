@@ -1,5 +1,7 @@
 # Motorola RAZR V3i (R4441D)
 
+![Motorola RAZR V3i](assets/moto.jpg)
+
 This is a place where I put all motorola related software and settings for self reference
 
 ## Software
@@ -18,12 +20,6 @@ Model: V3e / V3i EDGE variant (R4441D platform) | Firmware: R4441D_G_02.02.DSR |
 ## Commands
 
 `*#06#` IMEI | `*#9999#` Software version | `*#8888#` Hardware version
-
-### Firmware/Lang Packs
-
-- [MMPAGI v0.5 (R4441D, has Russian)](https://forum.motofan.ru/index.php?showtopic=136497)
-- [R4441D_G_08.02.05R stock (no Russian)](https://motofan.ru/downloads/100857/)
-- [LP0032 reflash](https://gsmforum.ru/threads/32190/)
 
 ### Tools
 
