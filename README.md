@@ -6,8 +6,16 @@ This is a place where I put all motorola related software and settings for self 
 
 ## Software
 
-- RSD-lite (used via bottles)
-- https://forum.motofan.ru/index.php?showtopic=136497
+- RSD Lite 3.8 (via Bottles, see `bottle.yml` for config)
+- MMPAGI v0.5 for R4441D
+
+### Bottles Setup
+
+1. Install Bottles
+2. Create new bottle: Win64, Application, soda runner
+3. Install dependencies: `arial32`, `times32`, `courie32`, `mono`, `gecko`, `dotnet40`
+4. Run `software/RSDLite_3.8.msi` inside the bottle
+5. Launch via: `bottles-cli run -b "rsd-lite" -e /path/to/drive_c/SDL.exe`
 
 ## Notes
 
